@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		034D810C27F2879900109660 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034D810B27F2879900109660 /* CommentCell.swift */; };
 		0353186B27E80EA1006B20DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0353186A27E80EA1006B20DE /* AppDelegate.swift */; };
 		0353186D27E80EA1006B20DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0353186C27E80EA1006B20DE /* SceneDelegate.swift */; };
 		0353186F27E80EA1006B20DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0353186E27E80EA1006B20DE /* ViewController.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		034D810B27F2879900109660 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		0353186727E80EA1006B20DE /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0353186A27E80EA1006B20DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0353186C27E80EA1006B20DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -135,6 +137,7 @@
 				0396819827E8157E00907D47 /* FeedViewController.swift */,
 				0396819A27E81CF600907D47 /* CameraViewController.swift */,
 				0396819C27E82A1D00907D47 /* PostCell.swift */,
+				034D810B27F2879900109660 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				0353186B27E80EA1006B20DE /* AppDelegate.swift in Sources */,
 				0353186D27E80EA1006B20DE /* SceneDelegate.swift in Sources */,
 				0396819B27E81CF600907D47 /* CameraViewController.swift in Sources */,
+				034D810C27F2879900109660 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
